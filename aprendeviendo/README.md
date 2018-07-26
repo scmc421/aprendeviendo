@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Aplicación que crea la autenticación del usuario en Ruby on Rails con una base de datos postgresql. Salu2.
